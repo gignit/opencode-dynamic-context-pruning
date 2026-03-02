@@ -4,7 +4,9 @@ bun.lock
 
 # Build output
 dist/
+dist-bundle/
 *.tgz
+*.gz
 
 # Logs
 *.log
